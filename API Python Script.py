@@ -63,7 +63,7 @@ def open_doi_links_from_csv(filename):
                 time.sleep(2)  # Delay to prevent opening too many tabs at once
 
 # Example usage
-api_key = '134cfe3875ee24973f2310906334f56a'   # Replace with your actual API key
+api_key = 'Api key'   # Replace with your actual API key
 query = "TITLE-ABS-KEY(train wheel wear prediction)"
 start_year = 2021
 end_year = 2023
